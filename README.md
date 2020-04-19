@@ -5,7 +5,7 @@
 
 计算返回的数据
 
-![1587214717650](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1587214717650.png)
+![1587214717650](./images/1.png)
 
 ### 使用
 
@@ -13,13 +13,13 @@
 
 ` gcc socket.c  webbench.c `
 
-![1587302267452](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1587302267452.png)
+![1587302267452](./images/2.png)
 
 使用
 
 `./a.out -c 100 -t 60  http://www.baidu.com/`
 
-![1587302303490](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1587302303490.png)
+![1587302303490](./images/3.png)
 
 ### 总结（参考）
 

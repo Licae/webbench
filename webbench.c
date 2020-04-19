@@ -841,7 +841,7 @@
     //不使用库函数的任何缓冲机制。但是不知道为什么要讲这句话
     		setvbuf(f, NULL, _IONBF, 0);
     //初始化最后要输出的父亲进程的speed，failed，bytes，其实可以命名上作f-speed更好。
-	这样更容易区别于子进程的speed，更容易理解。
+	//这样更容易区别于子进程的speed，更容易理解。
 			speed = 0;
     		failed = 0;
     		bytes = 0;
